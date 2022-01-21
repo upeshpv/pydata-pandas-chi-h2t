@@ -1,4 +1,4 @@
-ipython==5.0.0
+ipython==7.16.3
 matplotlib==1.5.1
 notebook==4.2.2
 numpy==1.11.1
